@@ -1,10 +1,15 @@
 ---
-title: KiTéRő projekt
-description: Udvarhelyszéki kulturális kitérő
-image: https://i.imgur.com/GCtxJmw.png
-tags: KiTéRő, Székelyföld, váltó
+title: Hëj UdvarhelySzék 
+description: UdvarhelySzéki Kulturális BeFogadóTér
+image: https://i.imgur.com/o4HIYiE.png
+tags: KiTéRő, Hëj, UdvarhelySzéki Kulturális BeFogadóTér, Székelyföld, VáLTó, valto.ro, UdvarhelySzék
+disqus: eaposztrof
 ---
 
+![](https://i.imgur.com/o4HIYiE.png)
+
+
+[![hackmd-github-sync-badge](https://hackmd.io/Fpn3p20TSeqauziZfPLICQ/badge)](https://hackmd.io/Fpn3p20TSeqauziZfPLICQ)
 :::info
 :information_source:
 - [x] `hej.valto.ro` webcímen elérhető ez a adokumentum
@@ -12,34 +17,47 @@ tags: KiTéRő, Székelyföld, váltó
 - [x] alapvető kérdőív: [`valto.ro/r/MiLegyenAHely`](https://valto.ro/r/MiLegyenAHely)
 :::
 
-# KiTéRő kulturális központ
+# Hëj - *UdvarhelySzéki Kulturális BeFogadóTér*
+==[ munkafüzet ]==
 - [ ] Udvarhelyszéki Kulturális KiTéRő
-- [ ] Udvarhelyszéki kulturális BeFogadóTér
+- [x] Udvarhelyszéki kulturális BeFogadóTér
 - [ ] Udvarhelyszéki Művelődési Központ
 - [ ] Udvarhelyszéki Művészeti Központ
 - [ ] Udvarhelyszéki Kulturális Központ
 - [ ] Udvarhelyszéki Kreatív Központ
 - [ ] Udvarhelyszéki Kulturális BeFogadóTér
 
+## Ihletésül szolgál
+> *Vagy századmagunkkal hívtuk második otthonunknak, barátságok és szerelmek születtek itt, de nem csak*
+> --- [**Volt egyszer egy Gpont - Szempont**](https://szem.ro/volt-egyszer-egy-gpont/)
+
 > - szórakozóhely, filmszínház és művelődési központ
-> -- [Kultiplex – Wikipédia](https://hu.wikipedia.org/wiki/Kultiplex)
+> --- [Kultiplex – Wikipédia](https://hu.wikipedia.org/wiki/Kultiplex)
 
 > - Művészeti Központ küldetése egy partneri kapcsolatokon alapuló, kreatív alkotói közeget teremtő “safe space” (azaz biztonságos tér) létrehozása, a produkciós ház működtetésén keresztül. Együttműködünk az alkotókkal művészeti folyamataikban, partnereik vagyunk produkcióik és egyéb projektjeik megvalósításában, közösen dolgozunk karrierjük fejlesztésén. Tudást fejlesztünk és adunk át, hazai és nemzetközi partnereinkkel együttműködve.
-> -- [SinArts](https://sinarts.org/)
+> --- [SinArts](https://sinarts.org/)
 
 > - Kocertek, színházi estek, kiállítások, próbaterem, terembérlés.
-> -- [Fészek Kulturális Központ – Koncertek, színpadi programok, próbaterem.](https://feszekkulturaliskozpont.hu/)
+> --- [Fészek Kulturális Központ – Koncertek, színpadi programok, próbaterem.](https://feszekkulturaliskozpont.hu/)
 
 
 ## Kommunikáció
-[![](https://i.imgur.com/GCtxJmw.png)](https://hackmd.io/@eaposztrof/kitero-signal "Signal segédlet")
+### 1. Kezdeti lépések: [Signal](https://hackmd.io/@eaposztrof/kitero-signal)
+
+> [![](https://i.imgur.com/GCtxJmw.png)](https://hackmd.io/@eaposztrof/kitero-signal "Signal segédlet")
+
+### 2. Elkészült a [**`DISCORD`**](https://heej.valto.ro) szerver.
+> Permanens meghívó-link: **`https://heej.valto.ro`**
 
 ## Brand
-![KiTéRő logo](https://i.imgur.com/7odmpvW.png =200x) [![Heej logo](https://i.imgur.com/ABx2pkd.png =200x)](https://i.imgur.com/tjLeFL2.png)
+### Hëj - UdvarhelySzéki Kulturális BeFogadóTér
+> [![Hëj logo](https://i.imgur.com/ABx2pkd.png =200x)](https://hej.valto.ro/brand/data/ "Hëj - UdvarhelySzéki Kulturális BeFogadóTér - Arculati elemek")
+> - [**Letölthető** Arculati elemek és útmutató: `hej.valto.ro/brand/data/`](https://hej.valto.ro/brand/data/ "Hëj - UdvarhelySzéki Kulturális BeFogadóTér - Arculati elemek")
 
 
-1. **KiTéRő**
-    + [váltó által működésbe hozott szerkezet, lehetővé teszi a kényszerpályán haladó vasúti járműveknek, vagy vonatoknak eredeti irányából eltérő irányba történő letérést](https://hu.wikipedia.org/wiki/Kit%C3%A9r%C5%91). Nem mellesleg a [VáLTó](http://valto.ro/) Metaprojekt keretein belül indult fejlesztése. 
+### Evolúció
+2. **KiTéRő**
++ [váltó által működésbe hozott szerkezet, lehetővé teszi a kényszerpályán haladó vasúti járműveknek, vagy vonatoknak eredeti irányából eltérő irányba történő letérést](https://hu.wikipedia.org/wiki/Kit%C3%A9r%C5%91). Nem mellesleg a [VáLTó](http://valto.ro/) Metaprojekt keretein belül indult fejlesztése. 
     - röviden "Tér"-ként lehetne hivatkozni rá
 2. **H.**
     + Az ikonikus, célközönségünk által vágyott *G.* utódja, modern-kori verziója.
@@ -52,53 +70,29 @@ tags: KiTéRő, Székelyföld, váltó
     + "Hely" és "Héj" fúziója, ahol a szintén köztes "ë" (közép-magas "é") hang kapott helyet. Nem mellesleg rövidíthető az előzőleg már felmerült "Há", vagy Hápont"-ként is.
     - Nehéz beírni az "[ë](https://en.wikipedia.org/wiki/%C3%8B#Character_mappings)" karaktert amely ekként mérsékelhető: "Heej"
 
-## Plénum jegyzet
-`2022.12.13. @kalapos`
+## Megvalósítandó
 - [x] [Signal](https://hackmd.io/@eaposztrof/kitero-signal)
 - [x] [kollaboratív dokumantum](https://hackmd.io/Fpn3p20TSeqauziZfPLICQ)
-- [x] [lehetséges partnerek](#Partnerek)
-- [x] profitábilis tevékenységek
-- [x] kiállítótér
-- [x] koncertterem
-- [x] vendéglátó egység
+- [x] [Discord](https://heej.valto.ro)
+- [x] Rendszeresített Társasjáték est a [Fészek](https://www.facebook.com/feszekmusicpub)ben
+- [ ] Kiállítás a [TÉR](https://www.instagram.com/terlegyen/)ban
+- [ ] Farsangi Maszkabál a [Kalapos](http://www.kalapos.ro/)ban
+- [ ] [lehetséges partnerek](#Partnerek)
+- [ ] profitábilis tevékenységek
+- [ ] kiállítótér
+- [ ] koncertterem
+- [ ] vendéglátó egység
 - [ ] részvénytársaság
 - [ ] szövetkezeti modell
 - [ ] kommunikciós felületek social-média handler-ek lefoglalása
-- [x] mozi
+- [ ] mozi
 - [ ] mindennapi rendszeresített programok 
 - [ ] tervezés: archidesign
 - [ ] kivitelezés: lukacs alpins
 - [ ] ácsmunka: Vass Csaba
 - [ ] asztalosmunka: Milán
-- [ ] [Szilárd Demeter](https://getthetrollsout.org/troll-of-the-month/szilard-demeter-november-2020)
-- [ ] [DÉNES ADÉL](https://hammerworld.hu/denes-adel-pku-konnyuzenei-igazgatoja-mar-uzemel-a-hajogyar/)
 
-
-:::spoiler **Robinex SRL**
->. A Robinex Kft. szerves részeként mûködõ **Európa komplexum** a 2003-as esztendõben kezdte meg vendéglátóipari tevékenységét a > Taverna étterem megnyitásával. A 2005-ös esztendõ végén megnyitotta kapuit a Hotel Europa***, és ugyanakkor indult utazási irodánk, a [Touropa Travel](# "???") is.
-> **Nagy Károly tulajdonos.**
-> Carol Nagy
-> Tel./Fax: +40 266 218 228
-> Tel. mob. +40 722 459 121
-> 0722459120 [?](https://www.szekelyhirdeto.info/aprohirdetes/18-egyeb-ingatlan/408889-kiado-irodahelyisegek.html)
-
-CUI: 4366650
-Registru Comertului: J19/797/1993
-EUID: ROONRC.J19/797/1993
-Inregistrata in anul: 1993
-Tip societate: Societate comerciala cu raspundere limitata
-CAEN Principal: 5510
-CAEN Descriere: 5510
-Adresa: JUD. HARGHITA, MUN. ODORHEIU SECUIESC, STR. II. RÁKÓCZI FERENC, NR.1
-
-[![](https://i.imgur.com/novzD2k.png)](https://omnibus.ro/6293-robinex-srl)
-
----
-
-![](https://i.imgur.com/qq79WUc.png)
-![](https://i.imgur.com/3BuiXOw.png)
-![](https://i.imgur.com/j9iWKEg.png)
-:::
+Tevékenységek értékelése, és továbbiakajánlása: [`valto.ro/r/MiLegyenAHely`](https://valto.ro/r/MiLegyenAHely)
 
 ## Profi(l/t)
 - [ ] *Vendéglátó Tér*
@@ -143,6 +137,9 @@ Adresa: JUD. HARGHITA, MUN. ODORHEIU SECUIESC, STR. II. RÁKÓCZI FERENC, NR.1
 
 ## Partnerek
 - [x] [G. Egyesület](https://udvarhely.fussneki.ro/szervezet/g-egyesulet/)
+- [x] [Fészek Blues & Rock Music Pub Székelyudvarhely-Kossuth u. 2. | Székelyudvarhely | Facebook](https://www.facebook.com/feszekmusicpub)
+- [x] [Kalapos Gasztro Pub](http://www.kalapos.ro/)
+- [x] [Ervin Ruszuly (@terlegyen)](https://www.instagram.com/terlegyen/)
 - [ ] [Székelyföldi Stúdió](https://dunastudio.ro/)
 - [ ] [Erdélyi Magyar Televízió is under construction](https://www.erdely.tv/)
 - [ ] Marosvásárhelyi Rádió
@@ -178,22 +175,3 @@ Adresa: JUD. HARGHITA, MUN. ODORHEIU SECUIESC, STR. II. RÁKÓCZI FERENC, NR.1
 
 :pencil: **Itt van egy űrlap a kérdésekkel: https://forms.gle/bLFSQK1NpURRKFJk9**
 :::
-
-### Zalán
-`v0.1`
-
-Célunk egy kocsma létrehozása, ami egyedi élményt nyújt a vendégek számára azzal, hogy kiállításokat rendezünk festményekből, fotográfiákból, és élő zenei koncerteket tartunk.
-
-Piaci célunk: fiatal, kulturált, kreatív emberek, akik értékelik a minőségi italokat, jó hangulatot, és a képzőművészetet.
-
-Helyszín: a város központjában, jól megközelíthető helyen, jó parkolási lehetőséggel.
-
-Bevételforrások: italok értékesítése, belépődíjak, támogatói díjak.
-
-Kiadások: helyszín bérlése, bútorok, berendezések, marketing, alkalmazottak bére.
-
-Marketing stratégia: a helyi média használata, szórólapok, szociális média, rendezvények szervezése, hogy növeljük a népszerűséget.
-
-Nyitás: 6 hónap alatt, a kiállításokat és koncerteket rendszeresen váltogatva.
-
-Várható eredmények: az első évben várhatóan heti szinten több mint 200 vendég, és a bevétel meghaladja a 80 000 lejt mivel ez alatt vezteséges az üzlet
